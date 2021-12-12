@@ -23,6 +23,8 @@
 			<Item Name="2021_7.lvclass" Type="LVClass" URL="../PuzzleClasses/2021_7_class/2021_7.lvclass"/>
 			<Item Name="2021_8.lvclass" Type="LVClass" URL="../PuzzleClasses/2021_8_class/2021_8.lvclass"/>
 			<Item Name="2021_9.lvclass" Type="LVClass" URL="../PuzzleClasses/2021_9_class/2021_9.lvclass"/>
+			<Item Name="2021_10.lvclass" Type="LVClass" URL="../PuzzleClasses/2021_10_class/2021_10.lvclass"/>
+			<Item Name="2021_11.lvclass" Type="LVClass" URL="../PuzzleClasses/2021_11_class/2021_11.lvclass"/>
 		</Item>
 		<Item Name="AdventCode.lvclass" Type="LVClass" URL="../AdventCode_class/AdventCode.lvclass"/>
 		<Item Name="PuzzleBase.lvclass" Type="LVClass" URL="../PuzzleBase_class/PuzzleBase.lvclass"/>
@@ -62,7 +64,9 @@
 				<Item Name="imagedata.ctl" Type="VI" URL="/&lt;vilib&gt;/picture/picture.llb/imagedata.ctl"/>
 				<Item Name="Draw Flattened Pixmap.vi" Type="VI" URL="/&lt;vilib&gt;/picture/picture.llb/Draw Flattened Pixmap.vi"/>
 				<Item Name="FixBadRect.vi" Type="VI" URL="/&lt;vilib&gt;/picture/pictutil.llb/FixBadRect.vi"/>
+				<Item Name="NI_AALBase.lvlib" Type="Library" URL="/&lt;vilib&gt;/Analysis/NI_AALBase.lvlib"/>
 			</Item>
+			<Item Name="lvanlys.dll" Type="Document" URL="/&lt;resource&gt;/lvanlys.dll"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
