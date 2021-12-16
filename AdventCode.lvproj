@@ -30,6 +30,7 @@
 			<Item Name="2021_13.lvclass" Type="LVClass" URL="../PuzzleClasses/2021_13_class/2021_13.lvclass"/>
 			<Item Name="2021_14.lvclass" Type="LVClass" URL="../PuzzleClasses/2021_14_class/2021_14.lvclass"/>
 			<Item Name="2021_15.lvclass" Type="LVClass" URL="../PuzzleClasses/2021_15_class/2021_15.lvclass"/>
+			<Item Name="2021_16.lvclass" Type="LVClass" URL="../PuzzleClasses/2021_16_class/2021_16.lvclass"/>
 		</Item>
 		<Item Name="AdventCode.lvclass" Type="LVClass" URL="../AdventCode_class/AdventCode.lvclass"/>
 		<Item Name="PuzzleBase.lvclass" Type="LVClass" URL="../PuzzleBase_class/PuzzleBase.lvclass"/>
