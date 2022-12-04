@@ -13,28 +13,36 @@
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="PuzzleClasses" Type="Folder">
-			<Item Name="2020_20.lvclass" Type="LVClass" URL="../PuzzleClasses/2020_20_class/2020_20.lvclass"/>
-			<Item Name="2021_1.lvclass" Type="LVClass" URL="../PuzzleClasses/2021_1_class/2021_1.lvclass"/>
-			<Item Name="2021_2.lvclass" Type="LVClass" URL="../PuzzleClasses/2021_2_class/2021_2.lvclass"/>
-			<Item Name="2021_3.lvclass" Type="LVClass" URL="../PuzzleClasses/2021_3_class/2021_3.lvclass"/>
-			<Item Name="2021_4.lvclass" Type="LVClass" URL="../PuzzleClasses/2021_4_class/2021_4.lvclass"/>
-			<Item Name="2021_5.lvclass" Type="LVClass" URL="../PuzzleClasses/2021_5_class/2021_5.lvclass"/>
-			<Item Name="2021_6.lvclass" Type="LVClass" URL="../PuzzleClasses/2021_6_class/2021_6.lvclass"/>
-			<Item Name="2021_7.lvclass" Type="LVClass" URL="../PuzzleClasses/2021_7_class/2021_7.lvclass"/>
-			<Item Name="2021_8.lvclass" Type="LVClass" URL="../PuzzleClasses/2021_8_class/2021_8.lvclass"/>
-			<Item Name="2021_9.lvclass" Type="LVClass" URL="../PuzzleClasses/2021_9_class/2021_9.lvclass"/>
-			<Item Name="2021_10.lvclass" Type="LVClass" URL="../PuzzleClasses/2021_10_class/2021_10.lvclass"/>
-			<Item Name="2021_11.lvclass" Type="LVClass" URL="../PuzzleClasses/2021_11_class/2021_11.lvclass"/>
-			<Item Name="2021_12.lvclass" Type="LVClass" URL="../PuzzleClasses/2021_12_class/2021_12.lvclass"/>
-			<Item Name="12_Cave.lvclass" Type="LVClass" URL="../PuzzleClasses/12_Cave_class/12_Cave.lvclass"/>
-			<Item Name="2021_13.lvclass" Type="LVClass" URL="../PuzzleClasses/2021_13_class/2021_13.lvclass"/>
-			<Item Name="2021_14.lvclass" Type="LVClass" URL="../PuzzleClasses/2021_14_class/2021_14.lvclass"/>
-			<Item Name="2021_15.lvclass" Type="LVClass" URL="../PuzzleClasses/2021_15_class/2021_15.lvclass"/>
-			<Item Name="2021_16.lvclass" Type="LVClass" URL="../PuzzleClasses/2021_16_class/2021_16.lvclass"/>
-			<Item Name="16_Helper.lvclass" Type="LVClass" URL="../PuzzleClasses/16_Helper_class/16_Helper.lvclass"/>
-			<Item Name="2021_17.lvclass" Type="LVClass" URL="../PuzzleClasses/2021_17_class/2021_17.lvclass"/>
-			<Item Name="2021_21.lvclass" Type="LVClass" URL="../PuzzleClasses/2021_21_class/2021_21.lvclass"/>
-			<Item Name="2021_25.lvclass" Type="LVClass" URL="../PuzzleClasses/2021_25_class/2021_25.lvclass"/>
+			<Item Name="2020" Type="Folder">
+				<Item Name="2020_20.lvclass" Type="LVClass" URL="../PuzzleClasses/2020_20_class/2020_20.lvclass"/>
+			</Item>
+			<Item Name="2021" Type="Folder">
+				<Item Name="2021_1.lvclass" Type="LVClass" URL="../PuzzleClasses/2021_1_class/2021_1.lvclass"/>
+				<Item Name="2021_2.lvclass" Type="LVClass" URL="../PuzzleClasses/2021_2_class/2021_2.lvclass"/>
+				<Item Name="2021_3.lvclass" Type="LVClass" URL="../PuzzleClasses/2021_3_class/2021_3.lvclass"/>
+				<Item Name="2021_4.lvclass" Type="LVClass" URL="../PuzzleClasses/2021_4_class/2021_4.lvclass"/>
+				<Item Name="2021_5.lvclass" Type="LVClass" URL="../PuzzleClasses/2021_5_class/2021_5.lvclass"/>
+				<Item Name="2021_6.lvclass" Type="LVClass" URL="../PuzzleClasses/2021_6_class/2021_6.lvclass"/>
+				<Item Name="2021_7.lvclass" Type="LVClass" URL="../PuzzleClasses/2021_7_class/2021_7.lvclass"/>
+				<Item Name="2021_8.lvclass" Type="LVClass" URL="../PuzzleClasses/2021_8_class/2021_8.lvclass"/>
+				<Item Name="2021_9.lvclass" Type="LVClass" URL="../PuzzleClasses/2021_9_class/2021_9.lvclass"/>
+				<Item Name="2021_10.lvclass" Type="LVClass" URL="../PuzzleClasses/2021_10_class/2021_10.lvclass"/>
+				<Item Name="2021_11.lvclass" Type="LVClass" URL="../PuzzleClasses/2021_11_class/2021_11.lvclass"/>
+				<Item Name="2021_12.lvclass" Type="LVClass" URL="../PuzzleClasses/2021_12_class/2021_12.lvclass"/>
+				<Item Name="12_Cave.lvclass" Type="LVClass" URL="../PuzzleClasses/12_Cave_class/12_Cave.lvclass"/>
+				<Item Name="2021_13.lvclass" Type="LVClass" URL="../PuzzleClasses/2021_13_class/2021_13.lvclass"/>
+				<Item Name="2021_14.lvclass" Type="LVClass" URL="../PuzzleClasses/2021_14_class/2021_14.lvclass"/>
+				<Item Name="2021_15.lvclass" Type="LVClass" URL="../PuzzleClasses/2021_15_class/2021_15.lvclass"/>
+				<Item Name="2021_16.lvclass" Type="LVClass" URL="../PuzzleClasses/2021_16_class/2021_16.lvclass"/>
+				<Item Name="16_Helper.lvclass" Type="LVClass" URL="../PuzzleClasses/16_Helper_class/16_Helper.lvclass"/>
+				<Item Name="2021_17.lvclass" Type="LVClass" URL="../PuzzleClasses/2021_17_class/2021_17.lvclass"/>
+				<Item Name="2021_21.lvclass" Type="LVClass" URL="../PuzzleClasses/2021_21_class/2021_21.lvclass"/>
+				<Item Name="2021_25.lvclass" Type="LVClass" URL="../PuzzleClasses/2021_25_class/2021_25.lvclass"/>
+			</Item>
+			<Item Name="2022" Type="Folder">
+				<Item Name="2022_1.lvclass" Type="LVClass" URL="../PuzzleClasses/2022_1_class/2022_1.lvclass"/>
+				<Item Name="2022_2.lvclass" Type="LVClass" URL="../PuzzleClasses/2022_2_class/2022_2.lvclass"/>
+			</Item>
 		</Item>
 		<Item Name="AdventCode.lvclass" Type="LVClass" URL="../AdventCode_class/AdventCode.lvclass"/>
 		<Item Name="PuzzleBase.lvclass" Type="LVClass" URL="../PuzzleBase_class/PuzzleBase.lvclass"/>
