@@ -42,6 +42,10 @@
 			<Item Name="2022" Type="Folder">
 				<Item Name="2022_1.lvclass" Type="LVClass" URL="../PuzzleClasses/2022_1_class/2022_1.lvclass"/>
 				<Item Name="2022_2.lvclass" Type="LVClass" URL="../PuzzleClasses/2022_2_class/2022_2.lvclass"/>
+				<Item Name="2022_3.lvclass" Type="LVClass" URL="../PuzzleClasses/2022_3_class/2022_3.lvclass"/>
+				<Item Name="2022_4.lvclass" Type="LVClass" URL="../PuzzleClasses/2022_4_class/2022_4.lvclass"/>
+				<Item Name="2022_5.lvclass" Type="LVClass" URL="../PuzzleClasses/2022_5_class/2022_5.lvclass"/>
+				<Item Name="2022_6.lvclass" Type="LVClass" URL="../PuzzleClasses/2022_6_class/2022_6.lvclass"/>
 			</Item>
 		</Item>
 		<Item Name="AdventCode.lvclass" Type="LVClass" URL="../AdventCode_class/AdventCode.lvclass"/>
