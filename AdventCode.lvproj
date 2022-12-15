@@ -47,6 +47,7 @@
 				<Item Name="2022_5.lvclass" Type="LVClass" URL="../PuzzleClasses/2022_5_class/2022_5.lvclass"/>
 				<Item Name="2022_6.lvclass" Type="LVClass" URL="../PuzzleClasses/2022_6_class/2022_6.lvclass"/>
 				<Item Name="2022_7.lvclass" Type="LVClass" URL="../PuzzleClasses/2022_7_class/2022_7.lvclass"/>
+				<Item Name="2022_8.lvclass" Type="LVClass" URL="../PuzzleClasses/2022_8_class/2022_8.lvclass"/>
 			</Item>
 		</Item>
 		<Item Name="AdventCode.lvclass" Type="LVClass" URL="../AdventCode_class/AdventCode.lvclass"/>
