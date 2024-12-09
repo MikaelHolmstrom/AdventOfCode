@@ -51,7 +51,9 @@
 			</Item>
 			<Item Name="2024" Type="Folder">
 				<Item Name="2024_1.lvclass" Type="LVClass" URL="../PuzzleClasses/2024_1_class/2024_1.lvclass"/>
+				<Item Name="2024_5.lvclass" Type="LVClass" URL="../PuzzleClasses/2024_5_class/2024_5.lvclass"/>
 				<Item Name="2024_6.lvclass" Type="LVClass" URL="../PuzzleClasses/2024_6_class/2024_6.lvclass"/>
+				<Item Name="2024_9.lvclass" Type="LVClass" URL="../PuzzleClasses/2024_9_class/2024_9.lvclass"/>
 			</Item>
 		</Item>
 		<Item Name="AdventCode.lvclass" Type="LVClass" URL="../AdventCode_class/AdventCode.lvclass"/>
