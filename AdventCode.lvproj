@@ -55,11 +55,14 @@
 				<Item Name="2024_6.lvclass" Type="LVClass" URL="../PuzzleClasses/2024_6_class/2024_6.lvclass"/>
 				<Item Name="2024_9.lvclass" Type="LVClass" URL="../PuzzleClasses/2024_9_class/2024_9.lvclass"/>
 				<Item Name="2024_10.lvclass" Type="LVClass" URL="../PuzzleClasses/2024_10_class/2024_10.lvclass"/>
+				<Item Name="2024_11.lvclass" Type="LVClass" URL="../PuzzleClasses/2024_11_class/2024_11.lvclass"/>
+				<Item Name="2024_12.lvclass" Type="LVClass" URL="../PuzzleClasses/2024_12_class/2024_12.lvclass"/>
 			</Item>
 		</Item>
 		<Item Name="AdventCode.lvclass" Type="LVClass" URL="../AdventCode_class/AdventCode.lvclass"/>
 		<Item Name="PuzzleBase.lvclass" Type="LVClass" URL="../PuzzleBase_class/PuzzleBase.lvclass"/>
 		<Item Name="AdventCode_Main.vi" Type="VI" URL="../AdventCode_Main.vi"/>
+		<Item Name="AOC_FloodSearch.vi" Type="VI" URL="../Common/AOC_FloodSearch.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="user.lib" Type="Folder">
 				<Item Name="Convert EOLs (String Array)__ogtk.vi" Type="VI" URL="/&lt;userlib&gt;/_OpenG.lib/string/string.llb/Convert EOLs (String Array)__ogtk.vi"/>
@@ -78,6 +81,7 @@
 				<Item Name="Search Sorted 1D Array Index and Length.vim" Type="VI" URL="/&lt;userlib&gt;/_Hooovahh/Array VIMs/Search Sorted 1D Array Index and Length.vim"/>
 				<Item Name="LcMap_Get Map Default Values.vim" Type="VI" URL="/&lt;userlib&gt;/_LabVIEWCommon/LcMap/LcMap_Get Map Default Values.vim"/>
 				<Item Name="LcMap_Look in Map.vim" Type="VI" URL="/&lt;userlib&gt;/_LabVIEWCommon/LcMap/LcMap_Look in Map.vim"/>
+				<Item Name="LcTime_GetMilliSecounds.vi" Type="VI" URL="/&lt;userlib&gt;/_LabVIEWCommon/LcTime/LcTime_GetMilliSecounds.vi"/>
 			</Item>
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Check if File or Folder Exists.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/libraryn.llb/Check if File or Folder Exists.vi"/>
