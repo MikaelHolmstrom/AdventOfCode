@@ -57,12 +57,15 @@
 				<Item Name="2024_10.lvclass" Type="LVClass" URL="../PuzzleClasses/2024_10_class/2024_10.lvclass"/>
 				<Item Name="2024_11.lvclass" Type="LVClass" URL="../PuzzleClasses/2024_11_class/2024_11.lvclass"/>
 				<Item Name="2024_12.lvclass" Type="LVClass" URL="../PuzzleClasses/2024_12_class/2024_12.lvclass"/>
+				<Item Name="2024_13.lvclass" Type="LVClass" URL="../PuzzleClasses/2024_13_class/2024_13.lvclass"/>
 			</Item>
+		</Item>
+		<Item Name="Common" Type="Folder" URL="../Common">
+			<Property Name="NI.DISK" Type="Bool">true</Property>
 		</Item>
 		<Item Name="AdventCode.lvclass" Type="LVClass" URL="../AdventCode_class/AdventCode.lvclass"/>
 		<Item Name="PuzzleBase.lvclass" Type="LVClass" URL="../PuzzleBase_class/PuzzleBase.lvclass"/>
 		<Item Name="AdventCode_Main.vi" Type="VI" URL="../AdventCode_Main.vi"/>
-		<Item Name="AOC_FloodSearch.vi" Type="VI" URL="../Common/AOC_FloodSearch.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="user.lib" Type="Folder">
 				<Item Name="Convert EOLs (String Array)__ogtk.vi" Type="VI" URL="/&lt;userlib&gt;/_OpenG.lib/string/string.llb/Convert EOLs (String Array)__ogtk.vi"/>
@@ -114,6 +117,8 @@
 				<Item Name="Less.vim" Type="VI" URL="/&lt;vilib&gt;/Comparison/Less.vim"/>
 				<Item Name="Trim Whitespace One-Sided.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Trim Whitespace One-Sided.vi"/>
 				<Item Name="Enum to Array of Enums.vim" Type="VI" URL="/&lt;vilib&gt;/numeric/Enum to Array of Enums.vim"/>
+				<Item Name="NI_AALPro.lvlib" Type="Library" URL="/&lt;vilib&gt;/Analysis/NI_AALPro.lvlib"/>
+				<Item Name="NI_Matrix.lvlib" Type="Library" URL="/&lt;vilib&gt;/Analysis/Matrix/NI_Matrix.lvlib"/>
 			</Item>
 			<Item Name="lvanlys.dll" Type="Document" URL="/&lt;resource&gt;/lvanlys.dll"/>
 		</Item>
