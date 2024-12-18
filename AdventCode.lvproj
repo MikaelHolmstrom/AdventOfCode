@@ -58,6 +58,8 @@
 				<Item Name="2024_11.lvclass" Type="LVClass" URL="../PuzzleClasses/2024_11_class/2024_11.lvclass"/>
 				<Item Name="2024_12.lvclass" Type="LVClass" URL="../PuzzleClasses/2024_12_class/2024_12.lvclass"/>
 				<Item Name="2024_13.lvclass" Type="LVClass" URL="../PuzzleClasses/2024_13_class/2024_13.lvclass"/>
+				<Item Name="2024_16.lvclass" Type="LVClass" URL="../PuzzleClasses/2024_16_class/2024_16.lvclass"/>
+				<Item Name="2024_18.lvclass" Type="LVClass" URL="../PuzzleClasses/2024_18_class/2024_18.lvclass"/>
 			</Item>
 		</Item>
 		<Item Name="Common" Type="Folder" URL="../Common">
