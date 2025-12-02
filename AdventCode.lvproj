@@ -67,6 +67,7 @@
 			</Item>
 			<Item Name="2025" Type="Folder">
 				<Item Name="2025_1.lvclass" Type="LVClass" URL="../PuzzleClasses/2025_1_class/2025_1.lvclass"/>
+				<Item Name="2025_2.lvclass" Type="LVClass" URL="../PuzzleClasses/2025_2_class/2025_2.lvclass"/>
 			</Item>
 		</Item>
 		<Item Name="Common" Type="Folder" URL="../Common">
